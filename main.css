@@ -1,0 +1,48 @@
+.m1{
+    text-align: center;
+}
+img{
+    width: 100px;
+    float: left;
+}
+
+.m2{
+    text-align: center;
+}
+.z1{
+    width: 100px;
+    float: right;
+}
+
+.m3{
+    text-align: center;
+}
+.z2{
+    width: 100px;
+    float: inherit;
+}
+
+.d1{
+    background-color: darkcyan;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    border-radius: 7px;
+    float: right;
+}
+.d2{
+    background-color: darkcyan;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    border-radius: 7px;
+    float: right;
+}
+.d3{
+    background-color: darkcyan;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    border-radius: 7px;
+    float: right;
+}
